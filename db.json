@@ -1,0 +1,47 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Menu 'Fitness'",
+      "descr": "Menu 'Fitness' is a new approach to cooking: more fresh vegetables and fruits. Product of active and healthy people. This is a brand new product with the best price and high quality!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Menu 'Meatless'",
+      "descr": "Menu 'Meatless' - it is a careful selection of ingredients: the complete absence of animal products, milk from almonds, oats, coconut or buckwheat, the right amount of protein from tofu and imported vegetarian steaks.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Menu 'Premium'",
+      "descr": "In the 'Premium' menu, we use not only beautiful packaging design, but also high-quality execution of dishes. Red fish, seafood, fruits - a restaurant menu without going to a restaurant!",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "Yana Burdakova",
+      "phone": "+7 (903) 067-67-67",
+      "id": 1
+    },
+    {
+      "name": "Yana",
+      "phone": "+79030676767",
+      "id": 2
+    },
+    {
+      "name": "Yana",
+      "phone": "+19199260473",
+      "id": 3
+    },
+    {
+      "name": "Яна",
+      "phone": "+79030676767",
+      "id": 4
+    }
+  ]
+}
